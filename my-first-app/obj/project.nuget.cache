@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WnzXbMvFphE=",
+  "success": true,
+  "projectFilePath": "/home/minato/Documents/BlueTeam/my-first-app/my-first-app.csproj",
+  "expectedPackageFiles": [
+    "/home/minato/.nuget/packages/microsoft.aspnetcore.openapi/9.0.1/microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "/home/minato/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
